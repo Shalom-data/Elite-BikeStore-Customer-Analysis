@@ -9,10 +9,10 @@ The Elite Bikestore Customer Analysis Project focuses on analyzing customer data
 - [Tasks](#tasks)
 - [Tools Used](#tools-used)
 - [Metadata](#metadata)
-- [Data Preparation](#datapreparation)
+- [Data Preparation](#data-preparation)
 - [Analysis](#analysis)
 - [Visuals in This Report](#visuals-in-this-report)
-- [Insights & Recomendations](#insights-&-recommendations)
+- [Insights and Recomendations](#insights-and-recommendations)
 - [Conclusion](#conclusion)
 
 
@@ -109,7 +109,7 @@ Data preparation involved:
 ### Interact with the dashboard [here!](https://1drv.ms/x/c/b19accea551987d7/EeLp4LKiKIZKpaWRUeTtZN0B_fLJa_RLBsww-KSzEy4KCA?e=CYe1Oh)
 
  
-## Insights & Recommendations
+## Insights and Recommendations
 
 1. #### INCOME & PURCHASING BEHAVIOUR
 
