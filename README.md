@@ -4,8 +4,19 @@
 ## Project Overview
 The Elite Bikestore Customer Analysis Project focuses on analyzing customer data to understand purchasing behaviors and key demographics for a bike store. This project leverages Excel for data cleaning, pivot table creation, and deriving insights. The primary goal is to identify trends that can be used to optimize marketing efforts and improve overall sales strategies.
 
+## Table Of Contents📖
+- [Objectives](#objectives)
+- [Tasks](#tasks)
+- [Tools Used](#tools-used)
+- [Metadata](#metadata)
+- [Data Preparation](#datapreparation)
+- [Analysis](#analysis)
+- [Visuals in This Report](#visuals-in-this-report)
+- [Insights & Recomendations](#insights-&-recommendations)
+- [Conclusion](#conclusion)
 
-## Objective
+
+## Objectives
 The main objective of this project is to:
 
 - Understand customer demographics and purchasing patterns.
@@ -27,6 +38,9 @@ The main objective of this project is to:
 #### Profitability Analysis
 
 - Analyze the profitability of customer segments based on attributes like marital status, commute distance, and income.
+
+  ## Tools Used
+- Microsoft Excel: For data cleaning, calculated fields, analysis, and visualization.
 
 
 ## Metadata
@@ -75,8 +89,27 @@ Data preparation involved:
 - Examined the proportion of customers who purchased bikes versus those who didn’t.
 - Analyzed additional variables like gender, marital status, car ownership, and commute distance to identify potential trends.
 
+## Visuals in This Report
+
+- Below are the general overview of our customer base by Demography and Income
+   - Demography Overview
+<img width="878" alt="Demography Overview" src="https://github.com/user-attachments/assets/ce7fe95d-f648-4c12-afb9-0afb9e9899d1">
+
+   - Income Overview
+<img width="860" alt="Income overview" src="https://github.com/user-attachments/assets/4296a426-c846-4b83-9fea-53c8714d8ee9">
+
+- Below are the filtered visuals for only purchasing customers
   
-## Key Insights
+     - Purchase by Demography
+<img width="773" alt="Purchase by Demography" src="https://github.com/user-attachments/assets/540eb9f3-812f-4162-8b37-9e98a4ce9cdb">
+
+- Purchase by Income Level
+<img width="746" alt="Purchase by Income2" src="https://github.com/user-attachments/assets/703924a9-99cb-4a79-9b58-586f108b7342">
+
+### Interact with the dashboard [here!](https://1drv.ms/x/c/b19accea551987d7/EeLp4LKiKIZKpaWRUeTtZN0B_fLJa_RLBsww-KSzEy4KCA?e=CYe1Oh)
+
+ 
+## Insights & Recommendations
 
 1. #### INCOME & PURCHASING BEHAVIOUR
 
@@ -148,9 +181,14 @@ Highlight eco-friendly transportation benefits and promote bikes as a cost-effec
 ## Conclusion
 - This Excel-based analysis of the Elite Bike Store dataset uncovers key customer insights and provides targeted recommendations to enhance marketing strategies. Focusing on income brackets, age groups, and regional trends allows the business to tailor offerings, while flexible payment options and family packages cater to a broader audience. These data-driven recommendations aim to increase customer engagement, expand market reach, and improve overall profitability.
 
+## How to View the Report
+To view the full interactive report, download the .xls file . If you do not have Excel, you can view the screenshots and exported visuals included in this repository.
+
+### Did you read till the last line?, Great to have you!😎👍
+### Your feedback will be greatly appreciated, msg me directly on my email [Here!](mailto:umeasiegbushalom@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/umeasiegbu-shalom)
+
    
-## Tools Used
-- Microsoft Excel: For data cleaning, calculated fields, analysis, and visualization.
+
 
   
 
